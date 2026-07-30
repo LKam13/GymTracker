@@ -195,3 +195,96 @@ footer{
     width:100%;
     display:block;
 }
+
+
+
+
+
+
+
+
+
+
+/* Privacy Page */
+.page{
+
+    padding:70px 0;
+
+}
+
+.page h2{
+
+    margin-bottom:15px;
+
+    font-size:2.4rem;
+
+}
+
+.page h3{
+
+    margin-top:35px;
+
+    margin-bottom:10px;
+
+    color:#7cff53;
+
+}
+
+.page p{
+
+    margin-bottom:15px;
+
+}
+
+.page hr{
+
+    border:none;
+
+    border-top:1px solid #333;
+
+    margin:30px 0;
+
+}
+
+.effective-date{
+
+    color:#bdbdbd;
+
+    margin-bottom:35px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Support Page */
+ul{
+
+    margin-left:25px;
+
+    margin-bottom:20px;
+
+}
+
+li{
+
+    margin-bottom:8px;
+
+}
+
+h4{
+
+    color:#ffffff;
+
+    margin-top:20px;
+
+    margin-bottom:8px;
+
+}
